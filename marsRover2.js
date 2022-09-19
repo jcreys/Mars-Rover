@@ -6,6 +6,7 @@ const gridStart = {
 const gridEnd = {
     x: 5,
     y: 5
+    
 }
 
 const leftwardDir = {
